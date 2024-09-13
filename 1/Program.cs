@@ -8,3 +8,9 @@ Console.Write("birthday");
 Console.WriteLine("Happy birthday");
 
 
+Console.BackgroundColor = ConsoleColor.DarkBlue;
+Console.ForegroundColor = ConsoleColor.Yellow;
+
+Console.OutputEncoding = System.Text.Encoding.UTF8;
+
+Console.WriteLine("Ще не вмерла Україна, і слава, і воля!");
